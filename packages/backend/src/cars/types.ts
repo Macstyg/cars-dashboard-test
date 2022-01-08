@@ -1,4 +1,5 @@
 export interface Car {
+  id: string;
   vendor: string;
   model: string;
   year: number;
